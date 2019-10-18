@@ -1,0 +1,33 @@
+body{
+	background-image: url("background.gif");
+	margin-left: 10%;
+	margin-right: 10%;
+}
+#container{
+	background-color: white;
+	border: 10 white solid;
+}
+#header{
+	text-align: right;
+	background-color: #A8F0F0;
+	border: 5px white solid;
+}
+.entry{
+	background-color: #C2E9E9;
+padding: 5px;
+margin-top: 10px;
+text-align: justify;
+border-radius:15px;
+}
+#header h2 {
+font-size: 14pt;
+}
+.date{
+	border-bottom: dashed blue 2px;
+}
+.entry img{
+	float: right;
+}
+.spacer{
+	clear: right;
+}
